@@ -1,3 +1,6 @@
+![1](https://github.com/lucindanora/CryptoClustering/assets/144958544/a09fd273-1f9a-4296-b03a-10cbf7894890)
+
+
 # CryptoClustering
 
 
